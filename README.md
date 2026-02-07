@@ -4,8 +4,6 @@ A recreation of the Mintlify homepage using raw HTML and CSS. This project focus
 
 **Live Demo:** https://preetmax85.github.io/landing-page-2/
 
-## 🖼️ Final Output
-
 ## 📝 Sections Recreated
 
 I have successfully cloned the following sections end-to-end:
