@@ -2,7 +2,7 @@
 
 A recreation of the Mintlify homepage using raw HTML and CSS. This project focuses on replicating the layout, visual styling, and responsiveness of the original design without using JavaScript frameworks.
 
-**Live Demo:** 
+**Live Demo:** https://preetmax85.github.io/landing-page-2/
 
 ## 🖼️ Final Output
 
